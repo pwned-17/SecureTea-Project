@@ -49,7 +49,7 @@ Currently the following features are supported:
 **Organisation:** OWASP Foundation<br>
 **Project URL:** https://www.github.com/OWASP/SecureTea-Project<br>
 **IRC channel:** https://t.me/joinchat/Az5yZxQg7Djs-UZWKKCRVQ<br>
-**Mentor:** Rejah Rehim [(@rejahrehim)](https://github.com/rejahrehim)<br>, Ade Yoseman Putra[@adeyosemanputra](https://github.com/adeyosemanputra)
+**Mentor:** Rejah Rehim [(@rejahrehim)](https://github.com/rejahrehim), Ade Yoseman Putra[@adeyosemanputra](https://github.com/adeyosemanputra)<br>
 **Proposal Title:** SecureTea<br>
 **Tag:** securetea tools<br>
 
