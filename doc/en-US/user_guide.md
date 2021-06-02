@@ -1222,6 +1222,7 @@ The following suspicious activities/attacks can be detected:
    - Denial of Service (DoS) attacks
    - Cross site scripting (XSS) injection
    - SQL injection (SQLi)
+   - Server Side Request Forgery (SSRF)
    - Local file inclusion (LFI)
    - Web shell injection
  
